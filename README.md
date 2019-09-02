@@ -11,7 +11,8 @@ The [Studio Ghibli API](https://ghibliapi.herokuapp.com) catalogs the people, pl
 - Vehicles
 
 ## Getting Started
-Requests can be made with curl or other helper libraries by following regular REST calls. Examples are provided for Ruby and Python with a use case in Haskell. For example, here is how to GET the resource for the film My Neighbor Tororo:
+
+Requests can be made with curl or other helper libraries by following regular REST calls. Examples are provided for Ruby and Python with a use case in Haskell. For example, here is how to GET the resource for the film My Neighbor Totoro:
 
 `curl https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
 
@@ -31,35 +32,46 @@ Calling this resource will respond with the following object:
 ```
 
 ## Helper libraries
+
 ### Elixir
+
 - [ghibli](https://github.com/sotojuan/ghibli) by [Juan Soto](https://github.com/sotojuan)
 
 ### Go
+
 - [totoro](https://github.com/Rchristiani/totoro) by [Ryan Christiani](https://github.com/Rchristiani)
 
 ### GraphQL
+
 - [ghibliQL](https://github.com/kisscool-fr/ghibliql) by [Sebastien](https://github.com/kisscool-fr)
 
 ### R
+
 - [ghibliapi](https://github.com/onertipaday/ghibliapi) by [Paolo](https://github.com/onertipaday)
 
 ### Python2 and Python3
+
 - [python_studio_ghibli_api_sdk](https://github.com/Incognito/python_studio_ghibli_api_sdk) by [Incognito](https://github.com/Incognito)
 
-
 ## Examples
+
 ### Android
+
 - https://github.com/txemasv/ghibli-films
 
 ### Haskell
+
 - https://github.com/janaipakos/ghibliapi-example
 
 ### Datascript and Clojure
+
 - https://cjohansen.no/a-unified-specification/
 
 ### JavaScript
+
 - https://github.com/mazipan/ghibli-fans
 - https://github.com/taniarascia/sandbox/tree/master/ghibli
 
 ## Resources
+
 This API was built using [JSON Server](https://github.com/typicode/json-server), [ReDoc](https://github.com/Rebilly/ReDoc), and looking through [swapi.co](https://github.com/phalt/swapi)
