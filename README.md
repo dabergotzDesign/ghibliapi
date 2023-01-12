@@ -1,3 +1,6 @@
+OLD VERSION!! LATEST VERSION OF THIS SITE TO FIND HERE https://github.com/dabergotzDesign/Ghibli-API-dabergotzDesign
+
+
 This site contains material from the Studio Ghibli API and all rights deserves by Studio Ghibli & Hayao Miyazaki and was created to get in touch with APIs.
 
 
